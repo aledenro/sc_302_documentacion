@@ -1,2 +1,2 @@
-# sc_305_documentacion
+# sc_302_documentacion
 Laboratorio 1 documentacion del software
